@@ -1,0 +1,6 @@
+{
+  "name": "MealMate - Smart Meal Planner & Nutrition Tracker",
+  "description": "Plan meals, organize recipes, manage groceries and pantry ingredients, avoid food waste, and optimize nutrition with AI assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
